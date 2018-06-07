@@ -1,4 +1,4 @@
-# Bug report
+# :beetle: Bug report :bug:
 
 ## Description
 
