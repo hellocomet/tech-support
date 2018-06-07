@@ -1,6 +1,6 @@
 # Comet Tech Support
 
-Welcome to the Comet Tech Support repository.
+Welcome to the Comet Tech Support repository :wave: .
 
 - If you have any feedback or bug report about your use of the comet platform, or its various bots (slack, email, sms), then please create an issue [here](https://github.com/hellocomet/tech-support/issues/new)
 
